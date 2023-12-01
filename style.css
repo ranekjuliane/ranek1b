@@ -1,5 +1,5 @@
 .titulo {
-    background-color: #424E61;
+    background-color: #0042ac;
     color: white;
     padding: 24px 0;
     margin: 0 16px;
@@ -9,10 +9,12 @@
 
 
 .paragrafo {
-    background-color: #424E61;
-    color: yellow;
+    background-color: #adc1e2;
+    color: rgb(0, 0, 0);
     padding: 24px 0;
     margin: 0 16px;
     font-size: 30px;
     text-align: left; 
 }
+
+body {background: rgb(166, 208, 221);}
